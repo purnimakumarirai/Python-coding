@@ -1,14 +1,12 @@
 import turtle
 from turtle import *
 
-# screen for output
 screen = turtle.Screen()
 
-# Defining a turtle Instance
 t = turtle.Turtle()
 speed(0)
 
-# initially penup()
+
 t.penup()
 t.goto(-400, 250)
 t.pendown()
