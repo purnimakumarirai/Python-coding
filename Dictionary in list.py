@@ -1,4 +1,7 @@
-(dictionary in list)
+#(dictionary in list)
+
+import dictionary
+
 travel_log = [
 {
   "country": "France",
